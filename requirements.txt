@@ -1,0 +1,10 @@
+torchvision
+torch
+torchaudio
+fair-esm
+scikit-learn
+matplotlib
+seaborn
+numpy
+pandas
+biopython
